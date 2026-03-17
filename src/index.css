@@ -1,8 +1,18 @@
-.Button {
-  padding: 3px;
+.welcome {
+  background-color: aqua;
+  padding: 1em;
+  margin: 1px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 12px;
+  width: 300px;
+}
+
+.error {
   background-color: red;
-  color: white;
-  border: 10px;
-  border-radius: 5px;
+  padding: 1em;
+  border-radius: 12px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: auto;
+  width: 400px;
   cursor: pointer;
 }
